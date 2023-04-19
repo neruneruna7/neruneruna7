@@ -1,9 +1,3 @@
-<style type="text/css">
-    .markdown-body {
-        background-color: #111118;
-    }
-
-</style>
 # ナマステ！
 ## Hello World!
 

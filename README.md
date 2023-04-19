@@ -65,10 +65,11 @@ grade = "B2 (26卒)"
     - 上記のMillion_PorkerをTauriを使用してデスクトップアプリ版にしたもの
     - [リポジトリ](https://github.com/neruneruna7/million-porler-cow)
 
-### 今後作る予定のもの
-- Todoアプリ
+### やりたいこと
+- Todoアプリ開発
     - いまだにCRUDなアプリを作っていないので作る
     - Actix-web, Mysql, React を使用予定
+- 技術記事の執筆
 
 ## Happy! Hacking!
 <!-- トロフィー -->

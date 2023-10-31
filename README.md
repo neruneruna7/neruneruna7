@@ -55,16 +55,6 @@ grade = "B2 (26卒)"
     - フロントエンド
     - [リポジトリ](https://github.com/YoshiYoshiPro/HACK_U_Meijo_2022)
 
-- Million_Porker(仮名)
-    - チーム開発
-    - バックエンド
-    - [リポジトリ](https://github.com/neruneruna7/hack_ideatech_2023)
-- Million_Porker_cow
-    - 個人開発
-    - デスクトップアプリ
-    - 上記のMillion_PorkerをTauriを使用してデスクトップアプリ版にしたもの Rustの練習
-    - [リポジトリ](https://github.com/neruneruna7/million-porler-cow)
-
 - OpenHackU-NAGOYA 2023
     - チーム名 コイルカ
     - プロダクト名 usotsukey
@@ -77,6 +67,19 @@ grade = "B2 (26卒)"
     - HackDayにてGMO企業賞いただきました！ わーい！
     - バックエンド担当
     - [リポジトリ](https://github.com/jphacks/NG_2303)
+
+
+- Million_Porker(仮名)
+    - チーム開発
+    - バックエンド
+    - [リポジトリ](https://github.com/neruneruna7/hack_ideatech_2023)
+
+- Million_Porker_cow
+    - 個人開発
+    - デスクトップアプリ
+    - 上記のMillion_PorkerをTauriを使用してデスクトップアプリ版にしたもの Rustの練習
+    - [リポジトリ](https://github.com/neruneruna7/million-porler-cow)
+
 
 
 ### やりたいこと

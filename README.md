@@ -74,6 +74,7 @@ grade = "B2 (26卒)"
 - JPHACKS 2023
     - チーム名 てんとうむし
     - プロダクト名 Adversarial Armor
+    - HackDayにてGMO企業賞いただきました！ わーい！
     - バックエンド担当
     - [リポジトリ](https://github.com/jphacks/NG_2303)
 

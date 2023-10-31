@@ -4,7 +4,7 @@
 ```toml
 [profile]
 username = "neruneruna7"
-age = 19
+age = "20になってしまいました"
 location = "東海地方"
 [university]
 name = "名城大学"
@@ -62,13 +62,23 @@ grade = "B2 (26卒)"
 - Million_Porker_cow
     - 個人開発
     - デスクトップアプリ
-    - 上記のMillion_PorkerをTauriを使用してデスクトップアプリ版にしたもの
+    - 上記のMillion_PorkerをTauriを使用してデスクトップアプリ版にしたもの Rustの練習
     - [リポジトリ](https://github.com/neruneruna7/million-porler-cow)
 
+- OpenHackU-NAGOYA 2023
+    - チーム名 コイルカ
+    - プロダクト名 usotsukey
+    - バックエンド担当
+    - [リポジトリ](https://github.com/calloc134/HACKU-2023-codespaces)
+
+- JPHACKS 2023
+    - チーム名 てんとうむし
+    - プロダクト名 Adversarial Armor
+    - バックエンド担当
+    - [リポジトリ](https://github.com/jphacks/NG_2303)
+
+
 ### やりたいこと
-- Todoアプリ開発
-    - いまだにCRUDなアプリを作っていないので作る
-    - Actix-web, Mysql, React を使用予定
 - 技術記事の執筆
 
 ### 普段使用している環境

@@ -50,16 +50,17 @@ grade = "B2 (26卒)"
     - チーム開発の際に使用したことがある
 
 ### 開発した OR 開発に参加したなど
-- Hack-u meijo 2022
-    - チーム開発
-    - フロントエンド
-    - [リポジトリ](https://github.com/YoshiYoshiPro/HACK_U_Meijo_2022)
+- Writing an OS on Rustを行ったもの
+    - Rustで簡単なカーネルを作るチュートリアル
+    - コンピュータへの理解を深めるため
+    - [リポジトリ](https://github.com/neruneruna7/wos_os_n71)
 
-- OpenHackU-NAGOYA 2023
-    - チーム名 コイルカ
-    - プロダクト名 usotsukey
-    - バックエンド担当
-    - [リポジトリ](https://github.com/calloc134/HACKU-2023-codespaces)
+- Rust Full Stack Workshopを行ったもの
+    - [リポジトリ](https://github.com/neruneruna7/fullstack_workshop_rust)
+
+- 技育キャンプ名古屋
+    - チーム開発
+    - [リポジトリ](https://github.com/calloc134/geek_nagoya_2023)
 
 - JPHACKS 2023
     - チーム名 てんとうむし
@@ -68,6 +69,16 @@ grade = "B2 (26卒)"
     - バックエンド担当
     - [リポジトリ](https://github.com/jphacks/NG_2303)
 
+- OpenHackU-NAGOYA 2023
+    - チーム名 コイルカ
+    - プロダクト名 usotsukey
+    - バックエンド担当
+    - [リポジトリ](https://github.com/calloc134/HACKU-2023-codespaces)
+
+- Hack-u meijo 2022
+    - チーム開発
+    - フロントエンド
+    - [リポジトリ](https://github.com/YoshiYoshiPro/HACK_U_Meijo_2022)
 
 - Million_Porker(仮名)
     - チーム開発

@@ -4,7 +4,7 @@
 ```toml
 [profile]
 username = "neruneruna7"
-age = "20になってしまいました"
+age = 21
 location = "東海地方"
 [university]
 name = "名城大学"
@@ -44,6 +44,8 @@ member = ["IDEA"]
     - チーム開発等で使用
 - Actix-web
     - RustでWebアプリケーションを作る際に使用
+- Axum
+    - RustでWebアプリケーションを作る際に使用 
 - Tauri
     - Rustでデスクトップアプリケーションを作る際に使用
 - React
@@ -97,13 +99,20 @@ member = ["IDEA"]
 
 
 ### やりたいこと
-- 技術記事の執筆
+- 自作コンパイラ
+- 自作OS
+- 自作ネットワークプリンタ
+- OSSコミット
 
 ### 普段使用している環境
 #### OS: Windows 11
 - 開発環境としてはあまり使わない
 #### OS: Ubuntu 20.04 WSL2
-- 開発環境として使用することが多い
+- ローカルPCの開発環境として使用することが多い
+#### OS: Ubuntu 24.04
+- Xserver VPS上に構築した開発環境
+- Dockerの常時起動，ビルド処理をオフロードするため
+
 #### IDE: VSCode
 
 

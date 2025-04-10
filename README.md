@@ -9,7 +9,7 @@ location = "東海地方"
 [university]
 name = "名城大学"
 major = "情報工学"
-grade = "B3 (26卒)"
+grade = "B4"
 [community]
 management = ["IdeaxTech"]
 member = ["IDEA"]

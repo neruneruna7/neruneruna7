@@ -100,6 +100,13 @@ member = ["IDEA"]
 ! 工事中　！
 - 目的とゴール，与える権限を明確にしたうえで，担当者にタスクを与えることができる．
 
+### 文書
+構造的な文章，パラグラフ・ライティングを意識して文書を作成することができる．その練習をしている．
+練習例:
+- https://zenn.dev/neruneruna7/articles/13b1105b23d08f
+- https://zenn.dev/neruneruna7/articles/6ccdd1b30b2b22
+- https://zenn.dev/neruneruna7/articles/0ad420221d2bc8
+
 ### 使ったことのある技術等
 - Docker
     - 軽く docker composeを書いたりできる

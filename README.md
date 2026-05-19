@@ -4,12 +4,12 @@
 ```toml
 [profile]
 username = "neruneruna7"
-age = 22
+age = 23
 location = "東海地方"
 [university]
 name = "名城大学"
 major = "情報工学"
-grade = "B4"
+grade = "M1"
 [community]
 management = ["IdeaxTech"]
 member = ["IDEA"]

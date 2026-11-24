@@ -53,6 +53,11 @@ https://neru7-comet-memory-intergrowth.pages.dev/
   - repositoryパターンを使う場合，振る舞いに着目して整合性を持たねばならない単位で抽象化を実装することができる
 
 例：
+- Hack U 名城大学 2025
+  - チーム名 わーるど
+  - プロダクト名 TSUKUPULA
+  - 最優秀賞・名城大学賞
+  - https://hacku.yahoo.co.jp/meijo2025/
 - Rust Full Stack Workshopを行ったもの
     - [リポジトリ](https://github.com/neruneruna7/fullstack_workshop_rust)
 - JPHACKS 2023

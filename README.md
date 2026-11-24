@@ -15,6 +15,9 @@ management = ["IdeaxTech"]
 member = ["IDEA"]
 ```
 
+### ブログ
+https://neru7-comet-memory-intergrowth.pages.dev/
+
 ### **使用しているプログラミング言語**
 - **Rust** 主に使っている．アプリ開発・小規模スクリプトなど．
 - Python 軽くなんかするときにつかったり．機械学習をするときに．
